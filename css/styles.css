@@ -485,7 +485,6 @@ header .mega-menu a::before {
     justify-content: center;
     align-items: center;
     z-index: 100;
-    transition: var(--main-transition);
 }
 .scroll-up i {
     font-size: 20px;
